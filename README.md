@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dontula-lokesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dontula-lokesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dontula-lokesh-9aabaa234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dontula-lokesh" height="30" width="40" /></a>
 <a href="https://instagram.com/hello_macha_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_macha_yt" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lokesh_6615" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lokesh_6615" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20r01a6615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20r01a6615" height="30" width="40" /></a>
