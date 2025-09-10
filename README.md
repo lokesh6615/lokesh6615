@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DONTULA LOKESH</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Dontula</h1>
 - 📫 How to reach me **dontulalokesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
