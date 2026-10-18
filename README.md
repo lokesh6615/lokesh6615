@@ -13,13 +13,13 @@
 
 ### 🚀 About Me
 
-Full-Stack Developer with **2.5+ years of experience** architecting high-throughput, resilient enterprise systems[cite: 1]. Core expertise lies in bridging **Java/Spring Boot microservices** with modern **MERN / TypeScript** architectures[cite: 1].
+Full-Stack Developer with **2.5+ years of experience** architecting high-throughput, resilient enterprise systems. Core expertise lies in bridging **Java/Spring Boot microservices** with modern **MERN / TypeScript** architectures.
 
-- 💼 **Current Role**: Software Developer at **Accenture** building mission-critical platforms for Global Retail and Energy clients[cite: 1].
-- ⚙️ **Core Focus**: Microservices Architecture, Event-Driven Systems (Kafka), Distributed Caching (Redis), and Cloud Deployments (AWS/Docker)[cite: 1].
-- 🎓 **Education**: B.Tech in Computer Science & Engineering from **CMR Institute of Technology** (GPA: 8.3)[cite: 1].
-- 📜 **Certifications**: Full Stack Open (MERN) & TypeScript by **University of Helsinki**[cite: 1].
-- 📍 **Location**: Hyderabad, Telangana, India[cite: 1]
+- 💼 **Current Role**: Software Developer at **Accenture** building mission-critical platforms for Global Retail and Energy clients.
+- ⚙️ **Core Focus**: Microservices Architecture, Event-Driven Systems (Kafka), Distributed Caching (Redis), and Cloud Deployments (AWS/Docker).
+- 🎓 **Education**: B.Tech in Computer Science & Engineering from **CMR Institute of Technology** (GPA: 8.3).
+- 📜 **Certifications**: Full Stack Open (MERN) & TypeScript by **University of Helsinki**.
+- 📍 **Location**: Hyderabad, Telangana, India
 
 ---
 
@@ -130,11 +130,11 @@ Full-Stack Developer with **2.5+ years of experience** architecting high-through
 
 ### 📌 Highlights & Engineering Impact
 
-- ⚡ **Scalable Microservices**: Engineered high-concurrency microservices supporting **100k+ daily active users**, tuning Spring Data JPA to cut database response latency by **25%**[cite: 1].
-- 📨 **Event-Driven Architecture**: Architected distributed message streams using **Apache Kafka** processing **100+ msgs/sec** for decoupled, fault-tolerant execution[cite: 1].
-- ☁️ **Cloud Infrastructure**: Containerized enterprise workloads with **Docker** and **AWS ECS**, automating CI/CD via GitHub Actions to maintain **99.9% uptime**[cite: 1].
-- 🚀 **Latency Reduction**: Embedded **Redis** caching across high-volume endpoints to drastically lower round-trip API latency[cite: 1].
-- 🧪 **Test-Driven Reliability**: Maintained **80%+ test coverage** across microservice tiers using **JUnit 5, Mockito, and Jest**[cite: 1].
+- ⚡ **Scalable Microservices**: Engineered high-concurrency microservices supporting **100k+ daily active users**, tuning Spring Data JPA to cut database response latency by **25%**.
+- 📨 **Event-Driven Architecture**: Architected distributed message streams using **Apache Kafka** processing **100+ msgs/sec** for decoupled, fault-tolerant execution.
+- ☁️ **Cloud Infrastructure**: Containerized enterprise workloads with **Docker** and **AWS ECS**, automating CI/CD via GitHub Actions to maintain **99.9% uptime**.
+- 🚀 **Latency Reduction**: Embedded **Redis** caching across high-volume endpoints to drastically lower round-trip API latency.
+- 🧪 **Test-Driven Reliability**: Maintained **80%+ test coverage** across microservice tiers using **JUnit 5, Mockito, and Jest**.
 
 ---
 
